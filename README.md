@@ -1,0 +1,2 @@
+# modelo-de-previsao-de-entrega-de-refeicoes
+Trata-se de um projeto para criação de um modelo que consiga prever a demanda futura de uma empresa de entrega de refeições que possui vários centros de atendimento em cidades diferentes, em que foram comparados quatro modelos (LinearRegression, DecisionTreeRegressor, RandomForestRegressor e XGBRegressor).  Projeto desenvolvido na disciplina Introdução à Aprendizagem De Máquina.  Elaborado em 07/11/2020
